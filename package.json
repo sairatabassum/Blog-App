@@ -1,0 +1,26 @@
+{
+  "name": "blog-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sairatabassum/Blog-App.git"
+  },
+  "author": "saira tabassum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sairatabassum/Blog-App/issues"
+  },
+  "homepage": "https://github.com/sairatabassum/Blog-App#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
